@@ -1,0 +1,24 @@
+{
+  "generatedBy": "Noah-AI",
+  "schema": 2,
+  "project": {
+    "name": null,
+    "language": "JavaScript",
+    "appType": "static"
+  },
+  "platform": "vercel",
+  "strategy": "A",
+  "tier": "free",
+  "frontend": {
+    "framework": "Unknown",
+    "root": null
+  },
+  "backend": null,
+  "database": {
+    "provider": null
+  },
+  "buildCommand": "npm run build",
+  "startCommand": "unknown",
+  "envRequired": [],
+  "generatedFiles": []
+}
