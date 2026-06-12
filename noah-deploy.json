@@ -10,7 +10,7 @@
   "strategy": "A",
   "tier": "free",
   "frontend": {
-    "framework": "Unknown",
+    "framework": "Static HTML",
     "root": null
   },
   "backend": null,
@@ -18,7 +18,7 @@
     "provider": null
   },
   "buildCommand": "npm run build",
-  "startCommand": "unknown",
+  "startCommand": "npx -y serve -s . -l $PORT",
   "envRequired": [],
   "generatedFiles": []
 }
